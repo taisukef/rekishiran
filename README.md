@@ -1,4 +1,4 @@
 # れきし乱マップ
-![https://taisukef.github.io/rekishiran/ranmap.png](rekishiran)  
+![rekishiran](https://taisukef.github.io/rekishiran/ranmap.png)  
 https://taisukef.github.io/rekishiran/  
 
